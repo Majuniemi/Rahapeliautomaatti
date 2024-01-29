@@ -6,5 +6,5 @@ Tuotteen äänimaailma onnistui mielestäni erittäin hyvin ja opin, miten Ardui
 
 ## Kuvia valmiista tuotteesta
 
-<img src="Peliautomaatti 1.JPEG">
-<img src="Peliautomaatti 2.JPEG">
+<img src="Peliautomaatti 1.jpg">
+<img src="Peliautomaatti 2.jpg">
